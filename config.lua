@@ -1,9 +1,9 @@
 Config = {}
 
--- Possbility for calling police while selling items
-Config.PerecantagePoliceCallNpc2 = 25
--- Possbility for calling police while talking with first npc 
-Config.PerecantagePoliceCallNpc = 50
+-- Possbility for calling police while selling items / if you decrease it the possbility will be high to recieve the call
+Config.PerecantagePoliceCallNpc2 = 35 -- if you increase it the possbility will be high for dont send the call for police 
+-- Possbility for calling police while talking with first npc / if you decrease it the possbility will be high to recieve the call
+Config.PerecantagePoliceCallNpc = 20 -- if you increase it the possbility will be high for dont send the call for police 
 -- how much the player has to wait before set the waypoint on his Gps
 Config.WaitingBeforeSetWaypoint = 10000
 
