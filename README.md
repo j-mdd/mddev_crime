@@ -7,6 +7,7 @@ Sorry for lagging and fps drop my pc is bad
 
 ## **dependencies**
 - [QBCore](https://github.com/qbcore-framework/qb-core)
+- [ps-dispatch](https://github.com/Project-Sloth/ps-dispatch.git)
 - [qb-target](https://github.com/qbcore-framework/qb-target.git)
 - [ox_lib](https://github.com/overextended/ox_lib.git)
 - Progressbar
